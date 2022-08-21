@@ -42,4 +42,8 @@ switch ($caso) {
     for ($i=0; $i < 5; $i++) { 
         echo ("Hola dfsdfds");
     }
+
+    for ($i=0; $i < 5; $i++) { 
+        echo ("Hola dfsdfdsdfsdfs");
+    }
 }
