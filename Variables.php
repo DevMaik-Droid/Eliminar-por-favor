@@ -34,4 +34,8 @@ switch ($caso) {
     default:
         echo ("</br>No se cumplio ningun caso");
         break;
+
+    for ($i=0; $i < 5; $i++) { 
+        # code...
+    }
 }
